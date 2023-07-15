@@ -1,0 +1,39 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: #ea8888;
+}
+
+footer{
+    background-color: rgba(124, 39, 39, 0.585);
+    text-align: center;
+    background-image: url(/imagenes/rancho.jpg);
+    color: rgb(5, 5, 5);
+}
+
+.flex-container{
+    display: flex;
+    border: 2px solid black;
+    background-color: rgb(108, 107, 109);
+    padding: 1px;
+    flex-grow: row wrap;
+    margin: 10px;
+   /*  justify-content: space-between; */
+    align-items: flex-start;
+
+}
+
+.btn-primary{
+    background-color: brown;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .card{
+    display: flex;
+    background-color: rgb(250, 250, 250);
+    color: rgb(6, 6, 6);
+    padding: 10px;
+    text-align: center;}

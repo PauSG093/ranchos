@@ -1,0 +1,35 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: #E5E5E5;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    background-color: rgba(124, 39, 39, 0.585);
+    text-align: center;
+    background-image: url(/imagenes/rancho.jpg);
+    color: rgb(5, 5, 5);
+}
+
+.navbar{
+    background-color: rgba(124, 39, 39, 0.585);
+    text-align: center;
+    background-image: url(/imagenes/rancho.jpg);
+    color: aliceblue;
+}
+
+.Botones{
+    position:relative;
+    left:695px;
+    top:865px;
+    color: white;
+    text-decoration: none;
+   
+}
